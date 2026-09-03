@@ -68,31 +68,31 @@ The project also adds analysis features such as CTC distribution, placement tren
 
 Raw Placement JSON
 
-&#x20;       ↓
+       ↓
 
 Flatten Nested Offers
 
-&#x20;       ↓
+       ↓
 
 Clean CGPA, CTC and Selection Status
 
-&#x20;       ↓
+       ↓
 
 Handle CGPA Ranges and Internal Cuts
 
-&#x20;       ↓
+       ↓
 
 Explode Offers by Branch
 
-&#x20;       ↓
+       ↓
 
 Clean CSV Files
 
-&#x20;       ↓
+       ↓
 
 Streamlit Interactive Application
 
-&#x20;       ↓
+       ↓
 
 Charts and Branch Comparison
 
