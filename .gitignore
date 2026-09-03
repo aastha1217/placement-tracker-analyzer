@@ -1,0 +1,10 @@
+placements_clean.csv
+placements_by_branch.csv
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+placements_data-Copy1.json
+scrape_log.txt
